@@ -26,10 +26,10 @@ This repository presents an exploratory self-case study of multilingual inhibito
 ![Figure 5](Figures/5.png)
 
 ### Figure 6. Dynamic adaptation in multilingual inhibitory control
-![Figure 6](Figures/6.png)
+![Figure 6](Figures/6%20(2).png)
 
 ### Figure 7. Statistical distribution of intrusions across linguistic domains
-![Figure 7](Figures/7.png)
+![Figure 7](Figures/7%20(2).png)
 
 ---
 
@@ -77,12 +77,12 @@ The most striking finding is the overwhelming dominance of **Russian (L4)** as t
 
 This project uses an **exploratory self-case / single-case design**. The researcher and participant are the same individual. The aim is not statistical generalization, but theoretically informed description and conceptual model building.
 
-### Participant profile
+### Participant Profile
 - **Age:** 40
-- **Academic background:** PhD in TESOL and Applied Linguistics
+- **Academic Background:** PhD in TESOL and Applied Linguistics
 - **Experience:** More than two decades of language learning, teaching, translation, and applied linguistics research
 
-### Language profile
+### Language Profile
 - **Azerbaijani:** L1
 - **Persian:** L2
 - **English:** L3
@@ -112,12 +112,12 @@ These tasks were selected to create variation in lexical retrieval demands, synt
 
 Cross-linguistic intrusion was defined as the production of a lexical, grammatical, or phonological element from a previously acquired language when a Spanish equivalent was intended.
 
-### Coding categories
+### Coding Categories
 - **Lexical intrusions**
 - **Morphosyntactic intrusions**
 - **Phonological intrusions**
 
-### Analytical approach
+### Analytical Approach
 - Descriptive frequency counts
 - Percentage distributions
 - Cross-task comparison
@@ -168,20 +168,6 @@ The **Inhibitory Gradient Framework (IGF)** is proposed as a conceptual account 
 
 ---
 
-## Interpretation
-
-The dataset suggests that multilingual inhibitory control is shaped by more than language strength alone. A language may become especially intrusive when it is strongly routinized, recently activated, structurally accessible, or functionally entrenched in production-related domains.
-
-This finding is especially relevant for research on:
-- multilingual lexical access
-- cross-linguistic interference
-- inhibitory control
-- late multilingualism
-- language dominance
-- multilingual cognitive architecture
-
----
-
 ## Citation
 
 If you use this repository, please cite the associated manuscript and materials appropriately.
@@ -190,18 +176,11 @@ If you use this repository, please cite the associated manuscript and materials 
 
 *The Paradox of Inhibitory Control in Higher-Order Multilingualism: A Self-Case Study of L5 Spanish Production and the Inhibitory Gradient Framework (IGF).*
 
-You may update this section with full bibliographic details once the manuscript is finalized or published.
-
 ---
 
 ## License
 
 Add the appropriate license information here once selected.
-
-For example:
-- MIT License
-- CC BY 4.0
-- All Rights Reserved
 
 ---
 
