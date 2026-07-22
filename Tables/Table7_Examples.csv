@@ -1,0 +1,6 @@
+﻿Task,Target Spanish,Produced,Source,Error Type,Repair,Observation
+Picture,Dos,Dva,L4,Lexical,No,Russian numeral intrusion
+Translation,La casa,Russian_Case,L4,Morphosyn,No,Russian case-marking transfer
+Narrative,Lunes,Ponedelnik,L4,Lexical,Yes_Slow,Delayed self-repair L4
+Picture,Agua,Water,L3,Lexical,Yes_Rapid,Prompt self-repair L3
+Narrative,Libro,Kniga,L4,Lexical,No,L4 interference in spontaneous speech
