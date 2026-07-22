@@ -187,6 +187,9 @@ Add the appropriate license information here once selected.
 ## Contact
 
 For questions about the repository, coding framework, or theoretical model, please use the GitHub repository issue tracker or add the preferred contact information here.  Pegah.merrikhiii@gmail.com 
+
                    deniz.qizi@gmail.com
+                   
                    https://www.linkedin.com/in/dr-pegah-merrikhi-98a7aa105/
+                   
 +905369574614 whatsapp
